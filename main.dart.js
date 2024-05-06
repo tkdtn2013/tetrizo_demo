@@ -81914,19 +81914,19 @@ r.Ul(s)},
 $S:0}
 A.a2S.prototype={
 $1(a){var s=this.a,r=s.b,q=a.c,p=s.b=r+(q==null?0:q)
-if(Math.abs(p)>=10){r=this.b
+if(Math.abs(p)>=5){r=this.b
 if(p>0)r.Ta()
 else r.T8()
 s.b=0}},
 $S:10}
 A.a2V.prototype={
 $1(a){var s=this.a,r=s.a,q=a.c,p=s.a=r+(q==null?0:q)
-if(Math.abs(p)>=10){if(p>0)this.b.T7()
+if(Math.abs(p)>=5){if(p>0)this.b.T7()
 s.a=0}},
 $S:10}
 A.a2U.prototype={
 $1(a){var s=a.b
-if(Math.abs(s==null?0:s)>500)this.a.Rd()},
+if(Math.abs(s==null?0:s)>1000)this.a.Rd()},
 $S:33}
 A.a2R.prototype={
 $2(a,b){return A.as7(new A.a2O(b),t.Gf)},
