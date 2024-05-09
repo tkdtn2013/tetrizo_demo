@@ -81783,7 +81783,7 @@ return m.XH(0)},
 au(a,b){var s,r,q,p=this
 p.XB(0,b)
 s=p.cH+=b
-if(s>=0.1){p.cH=0
+if(s>=0.25){p.cH=0
 s=p.aT
 s===$&&A.a()
 r=s.e
