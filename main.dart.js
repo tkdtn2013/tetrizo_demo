@@ -93486,7 +93486,7 @@ s=B.b.i4(o[0],new A.a2R())
 if(s){for(o=this.a,r=0;r<20;++r)for(q=0;q<10;++q){p=o[r]
 if(p[q]!==0)p[q]=4292072403}s=!0}return s},
 arU(){var s,r,q=this,p="Speed increased! New interval: "
-if(q.z==="challenge")q.Q=0.2
+if(q.z==="challenge")q.Q=0.5
 else q.Q=0.5
 for(s=q.e,r=0;r<B.d.cE(s.a/1000);++r){q.Q*=0.9
 A.aB5(p+B.d.cE(s.a/1000))}s=q.Q
@@ -94017,7 +94017,7 @@ aI(a,b){var s,r,q,p=this
 p.a3k(0,b)
 if(p.cW.b){p.dn+=b
 if(p.ea==="challenge"){s=p.e9+=b
-if(s>=5){p.e9=0
+if(s>=10){p.e9=0
 s=p.b5
 s===$&&A.a()
 s.ami()}}if(p.dn>=p.dZ){p.dn=0
